@@ -1,0 +1,19 @@
+{
+  "name": "dru-coin",
+  "version": "1.0.0",
+  "description": "This is a practice implementation of Blockchain in Typescript based from SavjeeTutorials repo (@SavjeeTutorials/SavjeeCoin).",
+  "main": "main.js",
+  "scripts": {
+    "test": "node main"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jhon-andrew/dru-coin.git"
+  },
+  "author": "Jhon Andrew Q. Baes <anecbook@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jhon-andrew/dru-coin/issues"
+  },
+  "homepage": "https://github.com/jhon-andrew/dru-coin#readme"
+}
